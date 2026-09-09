@@ -1,10 +1,5 @@
 # An Interpretable Deep Learning Framework for Lung Cancer Prediction using Swish-optimized Neural Networks and SHAP Explanations
 
-[![Conference](https://img.shields.io/badge/IEEE-Conference%20Accepted-success?style=for-the-badge&logo=ieee)](https://www.ieee.org/)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
 This repository contains the official implementation and source code for the research paper accepted and published in **IEEE**. The project proposes a robust, clinically interpretable deep learning framework designed for accurate lung cancer prediction, addressing class imbalance using SMOTE and utilizing **SHAP (SHapley Additive exPlanations)** to ensure model transparency and clinical interpretability.
 
 ---
